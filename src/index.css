@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Cairo", "Inter", system-ui, -apple-system, sans-serif;
+  --font-arabic: "Cairo", sans-serif;
+  --font-english: "Inter", sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}

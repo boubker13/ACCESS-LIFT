@@ -1,0 +1,6 @@
+{
+  "name": "Algeria B2B Wheelchair Lifts Hub",
+  "description": "B2B platform for importing specialized wheelchair lifts and reselling them to public and private transportation companies in Tlemcen, Algeria, empowering inclusion for citizens with special needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
